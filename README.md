@@ -80,14 +80,6 @@
 
 ---
 
-## 🎓 Academic Achievements
-
-- 🏆 **Dean's List** (2 times)
-- 🏆 **Rector's List** (1 time)
-- 📚 CGPA: **3.46** | Last Semester: **4.00**
-
----
-
 ## 📫 Let's Connect!
 
 <p align="center">
